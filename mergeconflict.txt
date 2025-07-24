@@ -1,2 +1,2 @@
-this is for merge conflict
-this is from branch called b2
+this from branch called b2
+
